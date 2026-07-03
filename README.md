@@ -4,8 +4,8 @@ Brain tumor classification using CNN basic learning model for strong foundation
 255 images total -small dataset
 # Brain Tumor Classification using CNN
 
-A deep learning project to classify brain MRI scans into 4 categories:
-Glioma, Meningioma, Pituitary Tumor, and No Tumor.
+A deep learning project to classify brain MRI scans into 2 categories:
+Tumor and No Tumor.
 
 ## Tech Stack
 - Python, TensorFlow, Keras
@@ -13,7 +13,7 @@ Glioma, Meningioma, Pituitary Tumor, and No Tumor.
 - Dataset: Masoud Nickparvar (7,023 MRI images)
 
 ## Features
-- 4-class MRI classification
+- 2-class MRI classification
 - Real-time prediction via Flask web app
 - Confidence scores for each tumor type
 - Interactive dark-themed UI
